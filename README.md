@@ -5,7 +5,7 @@ language available to me was DOS batch scripting.
 
 pingls.bat --- ping each address in a flat file list of sites
 	   Optionally include a delay between each attempt; ring the
-	   system bell of a failure.
+	   system bell on failure.
 
 et.bat --- ``Egg'' timer, i.e, a count-down timer.  Uses a line of vb
        script which it executes to time.  See the source.
